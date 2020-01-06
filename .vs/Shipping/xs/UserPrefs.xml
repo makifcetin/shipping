@@ -1,12 +1,12 @@
-﻿<Properties StartupConfiguration="{03AB579B-DD55-449A-98D3-C9BC58FD5453}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{A029F290-A1E3-4CA0-9411-A120E7498874}|Unit Tests">
   <MonoDevelop.Ide.ItemProperties.shipping PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Shipping.Test/Test.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="shipping/Model/BoxEntity.cs" Line="10" Column="43" />
-      <File FileName="shipping/Model/BoxRepository.cs" Line="15" Column="61" />
-      <File FileName="shipping/Model/BoxDetailEntity.cs" Line="13" Column="1" />
-      <File FileName="shipping/Model/BoxDetailRepository.cs" Line="10" Column="1" />
-      <File FileName="shipping/Controller/Distribution.cs" Line="48" Column="38" />
+      <File FileName="shipping/Model/BoxRepository.cs" />
+      <File FileName="shipping/Model/BoxDetailEntity.cs" />
+      <File FileName="shipping/Model/BoxDetailRepository.cs" />
+      <File FileName="shipping/Controller/Distribution.cs" />
       <File FileName="Shipping.Test/Test.cs" Line="12" Column="1" />
     </Files>
     <Pads>
@@ -18,14 +18,14 @@
               <Node name="Model" expanded="True" />
             </Node>
             <Node name="Shipping.Test" expanded="True">
-              <Node name="References" selected="True" />
+              <Node name="Test.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Shipping.Test FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Shipping.Test FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
