@@ -1,0 +1,4 @@
+/Users/akif/Projects/shipping/shipping/bin/Debug/shipping.dll
+/Users/akif/Projects/shipping/shipping/bin/Debug/shipping.pdb
+/Users/akif/Projects/shipping/shipping/obj/Debug/shipping.dll
+/Users/akif/Projects/shipping/shipping/obj/Debug/shipping.pdb

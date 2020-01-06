@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{03AB579B-DD55-449A-98D3-C9BC58FD5453}|Default">
+  <MonoDevelop.Ide.ItemProperties.shipping PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shipping.Test/Test.cs">
+    <Files>
+      <File FileName="shipping/Model/BoxEntity.cs" Line="10" Column="43" />
+      <File FileName="shipping/Model/BoxRepository.cs" Line="15" Column="61" />
+      <File FileName="shipping/Model/BoxDetailEntity.cs" Line="13" Column="1" />
+      <File FileName="shipping/Model/BoxDetailRepository.cs" Line="10" Column="1" />
+      <File FileName="shipping/Controller/Distribution.cs" Line="48" Column="38" />
+      <File FileName="Shipping.Test/Test.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="shipping" expanded="True">
+            <Node name="shipping" expanded="True">
+              <Node name="Controller" expanded="True" />
+              <Node name="Model" expanded="True" />
+            </Node>
+            <Node name="Shipping.Test" expanded="True">
+              <Node name="References" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Shipping.Test FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/akif/Projects/shipping/shipping/Controller/Distribution.cs" relfile="shipping/Controller/Distribution.cs" line="34" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

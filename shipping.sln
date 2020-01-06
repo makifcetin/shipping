@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shipping", "shipping\shipping.csproj", "{03AB579B-DD55-449A-98D3-C9BC58FD5453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shipping.Test", "Shipping.Test\Shipping.Test.csproj", "{A029F290-A1E3-4CA0-9411-A120E7498874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03AB579B-DD55-449A-98D3-C9BC58FD5453}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{03AB579B-DD55-449A-98D3-C9BC58FD5453}.Debug|anycpu.Build.0 = Debug|anycpu
+		{03AB579B-DD55-449A-98D3-C9BC58FD5453}.Release|anycpu.ActiveCfg = Release|anycpu
+		{03AB579B-DD55-449A-98D3-C9BC58FD5453}.Release|anycpu.Build.0 = Release|anycpu
+		{A029F290-A1E3-4CA0-9411-A120E7498874}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{A029F290-A1E3-4CA0-9411-A120E7498874}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{A029F290-A1E3-4CA0-9411-A120E7498874}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{A029F290-A1E3-4CA0-9411-A120E7498874}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

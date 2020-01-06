@@ -1,0 +1,11 @@
+/Users/akif/Projects/shipping/Shipping.Test/bin/Debug/Shipping.Test.dll
+/Users/akif/Projects/shipping/Shipping.Test/bin/Debug/Shipping.Test.pdb
+/Users/akif/Projects/shipping/Shipping.Test/bin/Debug/nunit.framework.dll
+/Users/akif/Projects/shipping/Shipping.Test/bin/Debug/shipping.dll
+/Users/akif/Projects/shipping/Shipping.Test/bin/Debug/shipping.pdb
+/Users/akif/Projects/shipping/Shipping.Test/bin/Debug/nunit.framework.pdb
+/Users/akif/Projects/shipping/Shipping.Test/bin/Debug/nunit.framework.xml
+/Users/akif/Projects/shipping/Shipping.Test/obj/Debug/Shipping.Test.csprojAssemblyReference.cache
+/Users/akif/Projects/shipping/Shipping.Test/obj/Debug/Shipping.Test.csproj.CopyComplete
+/Users/akif/Projects/shipping/Shipping.Test/obj/Debug/Shipping.Test.dll
+/Users/akif/Projects/shipping/Shipping.Test/obj/Debug/Shipping.Test.pdb
